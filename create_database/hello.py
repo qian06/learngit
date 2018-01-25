@@ -1,3 +1,3 @@
-utf-8
+/usr/bin/bash
 hello.py
 
